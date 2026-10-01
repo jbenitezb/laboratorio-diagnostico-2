@@ -23,4 +23,10 @@ Resolución paso a paso:
 
 ## 3.4 Buenas prácticas de commits
 
-(Enumere al menos cuatro, con un ejemplo de mensaje bueno y uno malo.)
+• Redactar mensajes claros y en modo imperativo ("Añadir", "Corregir").
+• Hacer commits pequeños y frecuentes (uno por cada tarea terminada).
+• Separar el título corto de una descripción detallada si el cambio es complejo.
+• Excluir archivos temporales o datos sensibles usando un .gitignore.
+Ejemplos:
+• Malo: cambios finales arreglado todo
+• Bueno: Corregir validación del formulario de registro
