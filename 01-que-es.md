@@ -21,8 +21,12 @@ pero utilizar este metodo puede traer problemas como:
 
 ## 1.3 Qué resuelve un sistema de control de versiones
 
-(Enumere al menos cuatro beneficios.)
-
+1. Guarda el historial de cambios: permite saber qué se modificó, quién lo hizo y cuándo.
+2. Recupera versiones anteriores: ayuda a volver a una versión previa si se comete un error.
+3. Facilita el trabajo en equipo: permite que varias personas trabajen en el proyecto y unan sus cambios.
+4. Evita tener muchas copias de carpetas: mantiene las versiones organizadas sin crear carpetas distintas para cada fecha.
+5. Permite comparar versiones: muestra las diferencias entre los cambios realizados.
+ 
 ## 1.4 Centralizado y distribuido
 
 (Explique la diferencia y diga a cuál de los dos pertenece Git.)
