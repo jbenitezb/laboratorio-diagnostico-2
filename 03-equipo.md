@@ -8,7 +8,9 @@ Git es el software local que registra los cambios de tu código en tu computador
 
 ## 3.2 Repositorio local y remoto
 
-(Explique clone, pull y push.)
+• Clone: Descarga un proyecto remoto completo a tu computadora por primera vez.
+• Pull: Trae y fusiona los últimos cambios de la nube a tu copia local.
+• Push: Sube tus cambios locales guardados al servidor en la nube.
 
 ## 3.3 Conflictos
 
