@@ -29,4 +29,6 @@ pero utilizar este metodo puede traer problemas como:
  
 ## 1.4 Centralizado y distribuido
 
-(Explique la diferencia y diga a cuál de los dos pertenece Git.)
+Un sistema centralizado guarda el historial de versiones en un servidor central, al que las personas se conectan para consultar el historial y registrar cambios.
+Un sistema distribuido permite que cada persona tenga una copia del proyecto y de su historial en su computadora. Así puede guardar versiones sin internet y compartirlas después.
+Git es un sistema de control de versiones distribuido.
