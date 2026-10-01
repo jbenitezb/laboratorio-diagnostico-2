@@ -4,7 +4,7 @@ Autor: Jose Luis Sosa
 
 ## 3.1 Git y GitHub no son lo mismo
 
-(Explique la diferencia en no más de cinco líneas.)
+Git es el software local que registra los cambios de tu código en tu computadora. GitHub es la plataforma web donde subes esos registros para respaldarlos y colaborar en equipo.
 
 ## 3.2 Repositorio local y remoto
 
