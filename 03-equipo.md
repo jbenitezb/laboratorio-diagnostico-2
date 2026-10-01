@@ -1,6 +1,6 @@
 # 3. Trabajo en equipo con GitHub y buenas prácticas
 
-Autor: (su nombre)
+Autor: Jose Luis Sosa
 
 ## 3.1 Git y GitHub no son lo mismo
 
